@@ -1,0 +1,13 @@
+Repositorio: Es un espacio donde se almacenan archivos, 
+proyectos o trabajos de manera organizada. Además, permite 
+que una o varias personas trabajen en el mismo proyecto y 
+puedan guardar los cambios realizados de forma segura.
+
+Commit: Es una comando que se utiliza para guardar los cambios 
+realizados en un proyecto junto con un mensaje o comentario. 
+Esto ayuda a llevar un control y un historial 
+de las modificaciones que se han hecho.
+
+Push: Es el comando que permite subir al repositorio los 
+cambios realizados desde el computador. Gracias a esto, 
+los archivos actualizados quedan disponibles en la nube.
