@@ -1,0 +1,5 @@
+Esta ruta recibe un mensaje enviado por el usuario mediante una petición POST en /reporte. 
+Luego el servidor responde con un mensaje de confirmación y muestra el reporte recibido.
+
+En una aplicación comunitaria podría servir para que las personas envíen reportes, 
+quejas, alertas o solicitudes relacionadas con su comunidad.

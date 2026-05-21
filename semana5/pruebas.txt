@@ -1,0 +1,8 @@
+http://localhost:3000 
+Resultado: Servidor activo
+
+http://localhost:3000/saludo
+Resultado: Hola comunidad
+
+http://localhost:3000/mensaje/juan
+Resultado: Hola juan
