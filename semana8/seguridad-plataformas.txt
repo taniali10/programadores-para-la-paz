@@ -1,0 +1,9 @@
+1. Cambiar contraseñas periódicamente.
+
+2. No compartir usuarios de acceso.
+
+3. Cerrar sesiones al terminar.
+
+4. Hacer copias de seguridad.
+
+5. Mantener el sistema actualizado.
