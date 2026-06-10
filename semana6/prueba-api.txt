@@ -1,0 +1,14 @@
+Al ejecutar la petición POST con este JSON
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El resultado que se muestra es: 
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
