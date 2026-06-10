@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+"tipo": "Movilidad",
+"descripcion": "La vía principal de acceso a la vereda presenta varios huecos que dificultan el tránsito de vehículos y motocicletas."
+}
+
+Ejemplo 2:
+
+{
+"tipo": "Servicios públicos",
+"descripcion": "La comunidad reporta interrupciones frecuentes en el suministro de agua durante las últimas semanas."
+}
