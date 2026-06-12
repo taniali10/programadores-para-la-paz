@@ -1,0 +1,7 @@
+Considero que es importante que las plataformas tecnológicas funcionen de manera estable y segura 
+porque muchas personas las utilizan todos los días para informarse, comunicarse o realizar diferentes 
+actividades. Si el servidor falla constantemente, los usuarios pueden tener dificultades para acceder a la 
+información que necesitan. Además, la seguridad ayuda a proteger los datos y evita problemas como 
+la pérdida de información. Cuando una plataforma funciona bien, las personas confían más en ella y la 
+pueden usar sin preocupaciones. Por eso, contar con un servidor estable y seguro es fundamental para 
+brindar un buen servicio a la comunidad.
