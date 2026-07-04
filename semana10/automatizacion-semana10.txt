@@ -1,0 +1,7 @@
+Evento: nuevo reporte de un daño en la vía de la vereda.
+
+Acción: enviar un mensaje a Telegram.
+
+Mensaje: "Nuevo reporte registrado. Revisar el sistema."
+
+Información que no debe enviarse: nombres completos, cédulas, teléfonos, direcciones y contraseñas.

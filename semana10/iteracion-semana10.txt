@@ -1,0 +1,20 @@
+¿Qué 2 tareas del backlog harías primero?
+
+1. Reportar fallas en el servicio de agua.
+2. Organizar los reportes según su nivel de urgencia.
+
+¿Por qué son las más importantes?
+
+Porque el agua es una necesidad básica para todas las familias de la vereda y los problemas deben conocerse rápido. 
+Además, organizar los reportes por urgencia ayuda a atender primero los casos que afectan más a la comunidad.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+Para mí, una tarea está terminada cuando ya funciona correctamente, se revisó que no tenga errores y quedó guardada para 
+que el equipo pueda seguir trabajando.
+
+Definición de terminado:
+
+- La función realiza lo que se pidió.
+- Se probó y funciona sin errores.
+- Quedó registrada en Git con sus cambios.

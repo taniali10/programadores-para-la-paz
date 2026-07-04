@@ -1,0 +1,9 @@
+1. Como habitante de la vereda quiero reportar fallas en el servicio de agua para que se gestionen oportunamente.
+
+2. Como líder comunitario quiero organizar los reportes según su nivel de urgencia para atender primero los más importantes.
+
+3. Como miembro de la comunidad quiero consultar las solicitudes enviadas para evitar reportar el mismo problema varias veces.
+
+4. Como presidente de la Junta de Acción Comunal quiero generar un listado de reportes para presentarlo en las reuniones con la Alcaldía.
+
+5. Como ciudadano quiero adjuntar una descripción del problema para brindar más información sobre la situación.
