@@ -1,0 +1,6 @@
+Una plataforma de participación ciudadana debe tener una base de datos para guardar la información de los 
+reportes y las causas de la comunidad. La autenticación permite que cada usuario ingrese con su cuenta y evita 
+que personas no autorizadas hagan cambios. También es importante proteger la información para cuidar 
+los datos personales de los habitantes. Esto genera más confianza en la plataforma. Además, facilita el 
+seguimiento de los reportes y mantiene la información organizada. Así los líderes de la vereda pueden 
+trabajar mejor con la comunidad y tomar decisiones con información confiable.

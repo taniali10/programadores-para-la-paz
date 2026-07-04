@@ -1,0 +1,8 @@
+El login sirve para que cada usuario pueda ingresar a la plataforma de forma segura con sus datos. 
+De esta manera, el sistema sabe quién está usando la aplicación.
+
+Algunas rutas deben estar protegidas porque contienen información importante o permiten hacer cambios 
+que solo pueden realizar los usuarios autorizados.
+
+No se deben mostrar públicamente datos como contraseñas, cédulas, teléfonos, direcciones, 
+correos electrónicos ni otra información personal de los habitantes de la comunidad.

@@ -1,0 +1,24 @@
+Entidad: Problema
+
+Campos principales:
+- id
+- nombre
+- descripción
+- fecha
+- estado
+
+Propósito:
+Guardar los problemas que reportan los habitantes de la vereda, como daños en las vías o falta de agua.
+
+
+Entidad: Solución
+
+Campos principales:
+- id
+- problema_id
+- responsable
+- fecha
+- observación
+
+Propósito:
+Registrar las acciones que se realizan para dar solución a cada problema reportado por la comunidad.

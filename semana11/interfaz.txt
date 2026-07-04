@@ -1,0 +1,11 @@
+La interfaz tendría un formulario para crear una nueva causa. Allí se podría escribir el título del 
+problema y una breve descripción para que los demás conozcan la situación.
+
+También tendría una lista con las causas disponibles para que cualquier habitante de la vereda pueda ver 
+cuáles necesitan apoyo o atención.
+
+Cada causa tendría un botón para apoyar la iniciativa y un contador que muestre cuántas personas ya la 
+han apoyado. Así sería más fácil identificar las que tienen mayor respaldo.
+
+La interfaz sería sencilla y fácil de entender para cualquier persona de la comunidad. Además, 
+no mostraría datos personales para proteger la privacidad de los habitantes.
