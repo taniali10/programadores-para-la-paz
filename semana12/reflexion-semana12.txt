@@ -1,0 +1,9 @@
+Durante este curso aprendí cómo la tecnología puede ayudar a mejorar la participación ciudadana y 
+la organización de las comunidades. Aprendí a crear un proyecto desde cero utilizando herramientas 
+como GitHub, Codespaces, Node.js, Express y SQLite. También comprendí cómo desarrollar una plataforma 
+donde las personas puedan crear causas, apoyarlas y generar documentos de manera más sencilla. 
+Entendí la importancia de organizar correctamente los archivos del proyecto, realizar pruebas de 
+funcionamiento y documentar cada proceso. Además, aprendí sobre el trabajo colaborativo y el uso 
+de repositorios para mantener un mejor control del desarrollo. Este curso me permitió ver que la 
+tecnología puede facilitar la comunicación entre ciudadanos y contribuir a que las comunidades 
+participen más activamente en la búsqueda de soluciones a sus necesidades.

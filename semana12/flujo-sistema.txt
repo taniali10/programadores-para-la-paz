@@ -1,0 +1,6 @@
+1. Un ciudadano de la vereda crea una causa sobre un problema que afecta a la comunidad.
+2. La causa queda registrada en la base de datos del sistema.
+3. Otros ciudadanos pueden ingresar y apoyar la causa.
+4. El sistema cuenta automáticamente la cantidad de apoyos recibidos.
+5. Cuando la causa tiene suficientes apoyos, el sistema genera un documento PDF con la petición.
+

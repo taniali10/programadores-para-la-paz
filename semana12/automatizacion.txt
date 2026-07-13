@@ -1,0 +1,3 @@
+Evento: nuevo apoyo ciudadano registrado en la plataforma.
+Mensaje: "Se ha registrado un nuevo apoyo ciudadano. Revisar la plataforma para más información."
+Información que no debe enviarse: nombres completos, números de documento, teléfonos, direcciones, correos electrónicos, contraseñas o cualquier dato personal sensible.

@@ -1,0 +1,17 @@
+Causa
+
+ id: identificador de la causa.
+ titulo: nombre de la petición o problema.
+ descripcion: explicación detallada de la situación.
+ fecha: fecha en que se creó la causa.
+
+Sirve para almacenar la información de las peticiones realizadas por los ciudadanos.
+
+Apoyo
+
+ id: identificador del apoyo.
+ causa_id: identifica a qué causa pertenece el apoyo.
+ nombre: nombre de la persona que apoya la causa.
+ fecha: fecha en que se registró el apoyo.
+
+Sirve para registrar las personas que apoyan una causa y llevar el conteo de los apoyos recibidos.
